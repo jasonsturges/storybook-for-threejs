@@ -20,7 +20,8 @@
     "@storybook/html": "^6.5.9",
     "@storybook/manager-webpack4": "^6.5.9",
     "@storybook/testing-library": "^0.0.13",
-    "babel-loader": "^8.2.5"
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.18.0"
   },
   "dependencies": {}
 }
