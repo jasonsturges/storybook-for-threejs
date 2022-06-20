@@ -1,0 +1,11 @@
+{
+  "name": "storybook-for-threejs",
+  "version": "1.0.0",
+  "description": "Using Storybook for Three.js graphics development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Sturges",
+  "license": "ISC"
+}
