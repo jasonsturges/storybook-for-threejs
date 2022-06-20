@@ -3,7 +3,19 @@
   "version": "1.0.0",
   "description": "Using Storybook for Three.js graphics development",
   "author": "Jason Sturges",
+  "homepage": "https://jasonsturges.github.io/storybook-for-threejs/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonsturges/storybook-for-threejs"
+  },
   "license": "ISC",
+  "keywords": [
+    "threejs",
+    "storybook",
+    "ui",
+    "component",
+    "graphics"
+  ],
   "main": "index.js",
   "scripts": {
     "storybook": "start-storybook -p 6006",
