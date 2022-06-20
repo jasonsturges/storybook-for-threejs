@@ -2,14 +2,13 @@
   "name": "storybook-for-threejs",
   "version": "1.0.0",
   "description": "Using Storybook for Three.js graphics development",
+  "author": "Jason Sturges",
+  "license": "ISC",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "Jason Sturges",
-  "license": "ISC",
   "dependencies": {
     "three": "^0.141.0"
   },
